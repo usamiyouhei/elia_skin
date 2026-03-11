@@ -1,3 +1,6 @@
-@use "./base/base";
-@use "./base/reset";
-@use "./global" as *;
+@use "./foundation/reset";
+@use "./foundation/base";
+
+@use "./global/colors";
+@use "./global/font";
+@use "./global/responsive";
